@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [modi-trump]</h1>
-<h3 align="center">A passionate [developer] from [india-usa]</h3>
+<h1 align="center">Hi 👋, I'm [zahoor laghari]</h1>
+<h3 align="center">A passionate [developer] from [pakistan]</h3>
 
 
 ---
@@ -28,9 +28,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=github_dark" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=github-dark-blue" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=github_dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[zahoor laghari]&show_icons=true&theme=github_dark" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[zahoor laghari]&theme=github-dark-blue" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[zahoor laghari]&layout=compact&theme=github_dark" height="200"/>
 </p>
 
 ---
