@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [zahoor laghari]</h1>
-<h3 align="center">A passionate [developer] from [pakistan]</h3>
+<h1 align="center">Hi 👋, I'm [modi-trump]</h1>
+<h3 align="center">A passionate [developer] from [india]</h3>
 
 
 ---
